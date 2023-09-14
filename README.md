@@ -8,17 +8,20 @@ DevOps_Topics
 
 
 ## Characteristics ##
-1. Self-Service Provisioning
-2. Elasticity
-3. Pay Per Use
-4. Workload Resilience
-5. Migration flexibilit
+*1. Self-Service Provisioning
+*2. Elasticity
+*3. Pay Per Use
+*4. Workload Resilience
+*5. Migration flexibilit
 
-Self-service provisioning: This means that you can provision resources, such as compute, storage, and networking, on demand without having to wait for IT approval. This gives you the flexibility to scale your resources up or down as needed.
-Elasticity: This means that you can easily scale your resources up or down to meet demand. This is important for applications that experience spikes in traffic or for workloads that need to be able to handle unpredictable demand.
-Pay per use: This means that you only pay for the resources that you use. This can help you save money on your cloud computing costs.
-Workload resilience: This means that your applications and data are protected from disruptions. AWS offers a variety of features to help you achieve workload resilience, such as high availability, disaster recovery, and backup and restore.
-Migration flexibility: This means that you can easily migrate your workloads to AWS from your on-premises environment. AWS offers a variety of tools and services to help you with your migration, such as AWS Migration Hub.
+AWS Characteristics
+
+Self-Service Provisioning: You can provision resources, such as compute, storage, and networking, on demand without having to wait for IT approval. This gives you the flexibility to scale your resources up or down as needed.
+Elasticity: You can easily scale your resources up or down to meet demand. This is important for applications that experience spikes in traffic or for workloads that need to be able to handle unpredictable demand.
+Pay Per Use: You only pay for the resources that you use. This can help you save money on your cloud computing costs.
+Workload Resilience: Your applications and data are protected from disruptions. AWS offers a variety of features to help you achieve workload resilience, such as high availability, disaster recovery, and backup and restore.
+Migration Flexibility: You can easily migrate your workloads to AWS from your on-premises environment. AWS offers a variety of tools and services to help you with your migration, such as AWS Migration Hub.
+
 Here are some additional details about each of these characteristics:
 
 Self-service provisioning: This is one of the most important characteristics of AWS. It allows you to provision resources quickly and easily, without having to wait for IT approval. This can be a major advantage for businesses that need to be able to scale their IT resources quickly to meet demand.
